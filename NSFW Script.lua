@@ -1,4 +1,6 @@
+
 -- This ones kinda weird but funny at the same time
+-- Basically get buttfucked by a sword with different positions (keys: q, z, x, c, v, f
 -- HATS
 -- https://www.roblox.com/catalog/14751471690/Sword -- SEX SWORD?!
 -- https://www.roblox.com/catalog/13928926714/Big-Matte-Blue-Sphere
@@ -1032,7 +1034,7 @@ Empyrean = Start({
 	HatDrop = false,
 	HideCharacter = Vector3.new(0, - 35, 0),
 	ParentCharacter = true,
-	PermanentDeath = true,
+	PermanentDeath = false;
 	Refit = false,
 	RigSize = 1,
 	RigTransparency = 1,
