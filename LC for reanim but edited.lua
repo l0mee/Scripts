@@ -1,4 +1,4 @@
--- lol
+-- Lazy to send the hat links soon.
 
 do
 	local Accessories = {}
@@ -1033,7 +1033,7 @@ Empyrean = Start({
 	HatDrop = false,
 	HideCharacter = Vector3.new(0, - 35, 0),
 	ParentCharacter = true,
-	PermanentDeath = true,
+	PermanentDeath = false,
 	Refit = false,
 	RigSize = 1,
 	RigTransparency = 1,
