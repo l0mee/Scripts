@@ -1,4 +1,9 @@
 -- semi nsfw but funny to troll people in vc games
+-- HATS: 
+-- https://www.roblox.com/catalog/83775390730955/Shiny-Sphere
+-- https://www.roblox.com/catalog/13928911963/Big-Matte-White-Sphere
+-- USE YOUR OWN RIG AND EDIT HAT MESHES AND TEXTURES IN LINE 1014 TO 1018	
+
 do
 	local Accessories = {}
 
