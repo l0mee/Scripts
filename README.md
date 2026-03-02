@@ -1,8 +1,8 @@
 Releasing half of my stuff since I lowk lost interest into exploiting lol
-You could change the hat IDS inside the scripts I'm too lazy to even link them all, in the future I will
+You can change the hat IDs inside the scripts, and yes I was too lazy to link all of them, but I might in the future
 
+The rig hats I use are in this game: https://www.roblox.com/games/95964727828755/autorig -- Recommended af and if you plan on using these scripts, I recommend using hats from there so you don’t have to spend thousands of Robux on one rig.
 
-BTW THE RIGS HATS I USE ARE FROM AUTORIGS HATS https://www.roblox.com/games/95964727828755/autorig IF YOU WILL EVER USE IT, RECOMMENDED SO YOU DON'T NEED TO WASTE OVER THOUSANDS OF ROBUX OVER 1 RIG
+Some of the scripts may contain NSFW stuff (mostly meant for trolling of course)
 
-Also the scripts may have nsfw shit (main purpose to troll people Ig)
-BTW REANIM IS MADE BY EMPER I ONLY PUT MY SCRIPTS INSIDE THE REANIMS 
+Also, the reanimation system itself was made by Emper, I only added my scripts into the reanim
