@@ -1,4 +1,10 @@
-
+-- CHANGE THE RIGS TO YOUR OWN RIGS IN LINE 1014 TO 1018 
+-- BULLET SYSTEM BY MELONSCRIPTER TY TY 
+-- HATS:
+-- https://www.roblox.com/catalog/14890554305/Green-Rocket-Launcher
+-- https://www.roblox.com/catalog/15008433643/Slug-Rifle-Red
+-- https://www.roblox.com/catalog/17465366506/Black-Rider-Motorcycle
+-- https://www.roblox.com/catalog/4504231783/Elemental-Crystal-Golem-Shoulder-Rock
 
 do
 	local Accessories = {}
@@ -1196,8 +1202,9 @@ local MOUSE = PLAYER:GetMouse()
 local PLAYER = game.Players.LocalPlayer
 local MOUSE = PLAYER:GetMouse()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CatThatDrinksSprite/Moon-Convert/main/Scripts/Other/AlignCharacter.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CatThatDrinksSprite/Moon-Convert/main/Scripts/Other/AlignCharacter.lua"))() -- FUCK THIS PERSON.. LOL
 -- WELDERS
+-- SHITTY CODE BTW
 local asdf = game.Workspace.DuskySpoon
 local motorcyclee = asdf["Accessory (Black Rider Motorcycle)"]
 local uuzi = asdf["Accessory (Slug Rifle Black)"]
@@ -1229,7 +1236,7 @@ BulletWeld.Parent = Bullet
 
 
 AlignCharacter(bullett.Handle, Bullet, Vector3.new(0, 0.15, 0.55), Vector3.new(0, -0.15, 0.55))
--- BULLET SYSTEM BY MELON THNAK YOU
+-- BULLET SYSTEM BY MELON THNAK YOU SM
 local BulletStuff = {
 	Speed = 0.145, -- 0.145 Recommended, anything lower might make the bullet spasm
 	AttachedTo = "Motor", -- Motor or Arm
