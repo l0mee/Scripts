@@ -1,5 +1,9 @@
--- This ones kinda weird but funny  at the same time
-
+-- This ones kinda weird but funny at the same time
+-- HATS
+-- https://www.roblox.com/catalog/14751471690/Sword -- SEX SWORD?!
+-- https://www.roblox.com/catalog/13928926714/Big-Matte-Blue-Sphere
+-- https://www.roblox.com/catalog/13085538354/Blue-Round-Noob-Head
+-- CHANGE THE RIGS TO YOUR OWN IN LINE 1013 TO 1017
 do
 	local Accessories = {}
 
